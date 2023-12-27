@@ -14,7 +14,7 @@
 
 ###  Paper
 
-| **Conference** | **Date** | **Title** |**Contents** | **Status** |
+| **Conference** | **Date** | **Title** |**Contents** | **Status** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | **COLING 2024** |  | [A Simple Angle-based Approach for Contrastive Learning of Unsupervised Sentence Representation]() | Sentence Representation Learning(SRL) | **Submitted** (Full)|
 | **EACL 2024** |  | [Bootstrap Your Own PLM: Boosting Semantic Features of PLMs for Unsuperivsed Contrastive Learning]() | Sentence Representation Learning(SRL) | **Submitted** (Short)|
