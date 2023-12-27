@@ -3,6 +3,7 @@ MS Course
 
    *  Sentence Representation Learning
    *  Retrieval Augmented Generation
+   *  sLLM
 
 ## Education
 
