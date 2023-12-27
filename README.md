@@ -5,7 +5,7 @@
 
 ## Education
 
-| **Type** | **Date** | **Department** | **Organization** |
+| **Degree** | **Date** | **Department** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **MS** | 2022.03 - 2024.02 | Artificial Intelligence |	**Hanyang University** |
 | **BA/BS** |	2015.03 - 2022.02 |	English Literature And Linguistics / Industrial Engineering |	**Seoul National University of Science and Technology** |
