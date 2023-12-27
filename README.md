@@ -2,7 +2,6 @@
    *  Natural Language Processing(NLP)
    *  Sentence Representation Learning(SRL)
    *  Retrieval Augmented Generation(RAG)
-   *  OOD Generalization
 
 ## Education
 
