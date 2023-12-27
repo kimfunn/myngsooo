@@ -1,5 +1,5 @@
 ##  Research Interest 
-   *  Natural Language Processing(NLP)
+   *  NLP
    *  Sentence Representation Learning(SRL)
    *  Retrieval Augmented Generation(RAG)
 
