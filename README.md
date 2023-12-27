@@ -2,8 +2,8 @@
 
 MS Course
 
-   *  Sentence Representation Learning(SRL)
-   *  Retrieval Augmented Generation(RAG)
+   *  Sentence Representation Learning
+   *  Retrieval Augmented Generation
 
 ## Education
 
