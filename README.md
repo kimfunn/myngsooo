@@ -1,18 +1,16 @@
-###  Interest 
+##  Interest 
    *  Natural Language Processing(NLP)
    *  Sentence Representation Learning(SRL)
    *  Retrieval Augmented Generation(RAG)
 
-
-### History
+## History
 
 | **Type** | **Date** | **Department** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Education** | 2022.03 - 2024.02 | Artificial Intelligence |	**Hanyang University** |
 | **Education** |	2015.03 - 2022.02 |	English Literature And Linguistics & Big Data Management Engineering |	**Seoul National University of Science and Technology** |
 
-
-###  Paper
+##  Paper
 
 | **Conference** | **Date** | **Title** |**Contents** | **Status** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
@@ -24,13 +22,13 @@
 | **HCLT 2023** | 2023.09 | [비지도 대조 학습에서 한국어 문장 표현을 위한 특수 토큰 컷오프 방법의 유효성 분석]() | Sentence Representation Learning(SRL) | **Oral** |
 | **ASK 2023** | 2023.05 | [비지도 대조 학습에서 삼중항 손실 함수 도입을 위한 토큰 컷오프 기반 데이터 증강 기법]() | Sentence Representation Learning(SRL) | **Oral** |
 
-###  Project
+##  Project
 
 | **Project** | **Role** | **Title** |**Date** |
 |:--------:|:--------:|:--------:|:--------:|
 | **산학** | Retrieval & Generator 모듈 개발 | LG를 위한 거대 언어모델 기반의 사내 RAG 시스템 개발 | 2023.10 ~ 2024.02 |
 
-###  Competition
+##  Competition
 
 | **Type** | **Date** | **Award** | **Team_Name** |
 |:--------:|:--------:|:--------:|:--------:|
