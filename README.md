@@ -26,7 +26,7 @@
 
 | **Project** | **Role** | **Title** |**Date** |
 |:--------:|:--------:|:--------:|:--------:|
-| **산학** | Retrieval & Generator 모듈 개발 | LG를 위한 거대 언어모델 기반의 사내 RAG 시스템 개발 | 2023.10 ~ 2024.02 |
+| **LG Electronics** | Retrieval & Generator 모듈 개발 | 거대 언어모델 기반 사내 RAG 시스템 개발 | 2023.10 ~ 2024.02 |
 
 ##  Competition
 
