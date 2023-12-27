@@ -36,5 +36,5 @@ Graduate Student
 
 | **Type** | **Role** | **Team_Name** | **Award** | **Date** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **2023 Corning AI Challenge** | Retrieval 모듈 개발 | ClosedAI |3rd | 2023.10 - 2023.12 |
+| **2023 Corning AI Challenge** | Retrieval Moudle 개발 | ClosedAI |3rd | 2023.10 - 2023.12 |
 | **데이콘 쇼핑몰 리뷰 평점 분류 경진대회** | 분류 시스템 개발 | 나요한 | 3rd (Top 1%) | 2022.07 - 2022.08 |
