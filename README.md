@@ -3,7 +3,7 @@
    *  Sentence Representation Learning(SRL)
    *  Retrieval Augmented Generation(RAG)
 
-## Education
+## Education
 
 | **Type** | **Date** | **Department** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
