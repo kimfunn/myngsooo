@@ -1,5 +1,4 @@
-##  Han, Myeong Soo
-
+###  Han, Myeong Soo
 MS Course
 
    *  Sentence Representation Learning
