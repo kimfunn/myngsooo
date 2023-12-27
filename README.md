@@ -1,5 +1,3 @@
-# myngsoo
-
 ###  Profile 
    *  Name : Myeongsoo Han
    *  Interest : Natural Language Processing(NLP), Sentence Representation Learning(SRL), Retrieval Augmented Generation(RAG)
