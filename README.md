@@ -6,6 +6,8 @@ Graduate Student
    *  Retrieval Augmented Generation
    *  sLLM
 
+-------------
+
 ## Education
 
 | **Degree** | **Date** | **Department** | **Organization** |
