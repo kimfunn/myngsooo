@@ -6,7 +6,7 @@
 
 ### History
 
-| **Type** | **Date** | **Contents** | **Organization** |
+| **Type** | **Date** | **Department** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Education** | 2022.03 - 2024.02 | Artificial Intelligence |	**Hanyang University** |
 | **Education** |	2015.03 - 2022.02 |	English Literature And Linguistics & Big Data Management Engineering |	**Seoul National University of Science and Technology** |
@@ -14,7 +14,7 @@
 
 ###  Paper
 
-| **Type** | **Date** | **Title** |**Contents** | **Track** |
+| **Conference** | **Date** | **Title** |**Contents** | **Track** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | **COLING 2024** | Full Paper | [A Simple Angle-based Approach for Contrastive Learning of Unsupervised Sentence Representation]() | Sentence Representation Learning(SRL) | **Submitted** |
 | **EACL 2024** | Short Paper | [Bootstrap Your Own PLM: Boosting Semantic Features of PLMs for Unsuperivsed Contrastive Learning]() | Sentence Representation Learning(SRL) | **Submitted** |
