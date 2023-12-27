@@ -1,5 +1,6 @@
 ###  Han, Myeong Soo
-MS Course
+
+Graduate Student
 
    *  Sentence Representation Learning
    *  Retrieval Augmented Generation
