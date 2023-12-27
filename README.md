@@ -8,7 +8,7 @@
 | **Type** | **Date** | **Contents** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Education** | 2022.03~ | Master’s Student in Data Intelligence Lab |	**Hanyang University** |
-| **Education** |	2015.03 ~ 2022.02 |	Double Majored in English Literature And Linguistics & Big Data Management Engineering |	**Seoul National University of Science and Technology** |
+| **Education** |	2015.03 ~ 2022.02 |	Double Majored in English Literature And Linguistics & Big Data Management Engineering |	**Seoul National University of Science and Technology** |
 
 
 ###  Paper
