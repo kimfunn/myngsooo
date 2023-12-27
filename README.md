@@ -7,8 +7,8 @@
 
 | **Type** | **Date** | **Department** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
-| **Education** | 2022.03 - 2024.02 | Artificial Intelligence |	**Hanyang University** |
-| **Education** |	2015.03 - 2022.02 |	English Literature And Linguistics / Industrial Engineering |	**Seoul National University of Science and Technology** |
+| **MS** | 2022.03 - 2024.02 | Artificial Intelligence |	**Hanyang University** |
+| **BA/BS** |	2015.03 - 2022.02 |	English Literature And Linguistics / Industrial Engineering |	**Seoul National University of Science and Technology** |
 
 ##  Paper
 
