@@ -16,7 +16,7 @@
 
 | **Conference** | **Date** | **Title** |**Contents** | **Track** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **COLING 2024** | Full Paper | [A Simple Angle-based Approach for Contrastive Learning of Unsupervised Sentence Representation]() | Sentence Representation Learning(SRL) | **Submitted** |
+| **COLING 2024** |  | [A Simple Angle-based Approach for Contrastive Learning of Unsupervised Sentence Representation]() | Sentence Representation Learning(SRL) | **Submitted** (Full)|
 | **EACL 2024** | Short Paper | [Bootstrap Your Own PLM: Boosting Semantic Features of PLMs for Unsuperivsed Contrastive Learning]() | Sentence Representation Learning(SRL) | **Submitted** |
 | **EACL 2024** | Short Paper | [Simple Temperature Cool-down in Contrastive Framework for Unsupervised Sentence Representation Learning]() | Sentence Representation Learning(SRL) | **Submitted**|
 | **HCLT 2023** | 2023.09 | [언어학 관점에서의 한국어 대조학습 기반 문장 임베딩의 허위 문맥화에 대한 고찰]() | Sentence Representation Learning(SRL) | **Oral** |
