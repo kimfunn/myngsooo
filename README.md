@@ -1,5 +1,7 @@
-##  Research Interest 
-  **[NLP]**
+##  Han, Myeong Soo
+
+MS Course
+
    *  Sentence Representation Learning(SRL)
    *  Retrieval Augmented Generation(RAG)
 
