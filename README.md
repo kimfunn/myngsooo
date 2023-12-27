@@ -6,7 +6,6 @@ Graduate Student
    *  Retrieval Augmented Generation
    *  sLLM
 
--------------
 
 ## Education
 
