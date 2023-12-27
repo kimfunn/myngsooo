@@ -28,7 +28,7 @@ MS Course
 
 | **Project** | **Role** | **Title** |**Date** |
 |:--------:|:--------:|:--------:|:--------:|
-| **LG Electronics** | Retrieval & Generator 모듈 개발 | 거대 언어모델 기반 사내 RAG 시스템 개발 | 2023.11 ~ 2024.02 |
+| **[LG Electronics](https://www.lge.co.kr/company/info/introduce)** | Retrieval & Generator 모듈 개발 | 거대 언어모델 기반 사내 RAG 시스템 개발 | 2023.11 ~ 2024.02 |
 
 ##  Competition
 
