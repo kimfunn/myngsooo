@@ -36,5 +36,5 @@ Graduate Student
 
 | **Type** | **Contents** | **Team_Name** | **Award** | **Date** |
 |:--------:|:--------:|:--------:|:----------:|:--------:|
-| **2023 Corning AI Challenge** | RAG 개발 / Interface | ClosedAI |3rd | 2023.10 - 2023.12 |
+| **2023 Corning AI Challenge** | RAG 개발 | ClosedAI |3rd | 2023.10 - 2023.12 |
 | **데이콘 쇼핑몰 리뷰 평점 분류 경진대회** | Multi-label Classification | 니나노 | 3rd <br/> (Top 1%) | 2022.07 - 2022.08 |
