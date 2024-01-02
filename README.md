@@ -28,7 +28,7 @@ Graduate Student
 
 ##  Project
 
-| **Project** | | **Contents** | **Title** |**Date** |
+| **Project** | **Contents** | **Title** |**Date** |
 |:--------:|:--------:|:--------:|:--------:|
 | **[LG Electronics](https://www.lge.co.kr/company/info/introduce)** | Multi-lingual Tasks | 거대 언어모델 기반의 사내 Q&A 시스템 개발 | 2023.11 ~ 2024.02 |
 
