@@ -29,7 +29,7 @@ Graduate Student
 ##  Project
 
 | **Project** | **Role** | **Contents** | **Title** |**Date** |
-|:--------:|:--------:|:--------:|:--------:|
+|:--------:|:--------:|:--------:|:--------:|:--------:|
 | **[LG Electronics](https://www.lge.co.kr/company/info/introduce)** | Retriever/Generator 고도화 | Multi-lingual RAG | 거대 언어모델 기반의 사내 Q&A 시스템 개발 | 2023.11 ~ 2024.02 |
 
 ##  Competition
