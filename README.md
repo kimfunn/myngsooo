@@ -12,7 +12,7 @@ Graduate Student
 | **Degree** | **Date** | **Department** | **Organization** |
 |:--------:|:--------:|:--------:|:--------:|
 | **MS** | 2022.03 - 2024.02 | [DILAB](https://dilab.hanyang.ac.kr/index.html) / <br/> Artificial Intelligence |	**[Hanyang University](https://nextai.hanyang.ac.kr/)** |
-| **BA/BS** |	2015.03 - 2022.02 |	English Literature And Linguistics / <br/> Management Engineering |	**[Seoul National University of Science and Technology](https://www.seoultech.ac.kr/index.jsp)** |
+| **BA** |	2015.03 - 2022.02 |	English Literature And Linguistics / <br/> Management Engineering |	**[Seoul National University of Science and Technology](https://www.seoultech.ac.kr/index.jsp)** |
 
 ##  Publications
 
