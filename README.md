@@ -21,7 +21,7 @@ Graduate Student
 | **COLING 2024** | - | [A Simple Angle-based Approach for Contrastive Learning of Unsupervised Sentence Representation]() | Sentence Representation Learning(SRL) | **Submitted** <br/> (Full)|
 | **EACL 2024** | 2024.01 | [Bootstrap Your Own PLM: Boosting Semantic Features of PLMs for Unsuperivsed Contrastive Learning](https://openreview.net/pdf?id=8P2Db19cs2) | Sentence Representation Learning(SRL) | **Findings** <br/> (Short)|
 | **EACL 2024** | 2024.01 | [Simple Temperature Cool-down in Contrastive Framework for Unsupervised Sentence Representation Learning](https://openreview.net/pdf?id=7WNQvITV-YV) | Sentence Representation Learning(SRL) | **Findings** <br/> (Short)|
-| **한국인공지능학회** | 2023.11 | A Simple Angle-based Approach for Contrastive Learning of Unsupervised Sentence Representation | Sentence Representation Learning(SRL) | **Poster** <br/> (Full)|
+| **JKAIA 2023 <br/>(한국인공지능학회)** | 2023.11 | A Simple Angle-based Approach for Contrastive Learning of Unsupervised Sentence Representation | Sentence Representation Learning(SRL) | **Poster** <br/> (Full)|
 | **HCLT 2023** | 2023.09 | 언어학 관점에서의 한국어 대조학습 기반 문장 임베딩의 허위 문맥화에 대한 고찰 | Sentence Representation Learning(SRL) | **Oral** |
 | **HCLT 2023** | 2023.09 | 비지도 대조 학습에서 한국어 문장 표현을 위한 특수 토큰 컷오프 방법의 유효성 분석 | Sentence Representation Learning(SRL) | **Oral** |
 | **ASK 2023** | 2023.05 | 비지도 대조 학습에서 삼중항 손실 함수 도입을 위한 토큰 컷오프 기반 데이터 증강 기법 | Sentence Representation Learning(SRL) | **Oral** |
