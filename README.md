@@ -1,9 +1,9 @@
 ###  Han, Myeong Soo
 
-Graduate Student
+Graduate Student, NLP
 
-   *  Sentence Representation Learning
-   *  Retrieval Augmented Generation
+   *  Representation Learning
+   *  Information Retrieval(IR)
    *  sLLM
 
 
