@@ -18,7 +18,7 @@ Graduate Student, NLP
 
 | **Conference** | **Date** | **Title** |**Contents** | **Status** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **COLING 2024** | - | [A Simple Angle-based Approach for Contrastive Learning of Unsupervised Sentence Representation]() | Sentence Representation Learning(SRL) | **Submitted** <br/> (Full)|
+| **COLING 2024** | - | - | Sentence Representation Learning(SRL) | **Submitted** <br/> (Full)|
 | **EACL 2024** | 2024.01 | [Bootstrap Your Own PLM: Boosting Semantic Features of PLMs for Unsuperivsed Contrastive Learning](https://openreview.net/pdf?id=8P2Db19cs2) | Sentence Representation Learning(SRL) | **Findings** <br/> (Short)|
 | **EACL 2024** | 2024.01 | [Simple Temperature Cool-down in Contrastive Framework for Unsupervised Sentence Representation Learning](https://openreview.net/pdf?id=7WNQvITV-YV) | Sentence Representation Learning(SRL) | **Findings** <br/> (Short)|
 | **JKAIA 2023 <br/>(한국인공지능학회)** | 2023.11 | A Simple Angle-based Approach for Contrastive Learning of Unsupervised Sentence Representation | Sentence Representation Learning(SRL) | **Poster** <br/> (Full)|
